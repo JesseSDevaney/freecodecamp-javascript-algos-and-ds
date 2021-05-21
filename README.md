@@ -6,6 +6,5 @@ This repository is hosting my projects that I completed through FreeCodeCamp's [
 
 ## License
 
-Copyright (c) 2021 Jesse S Devaney <jessesdevaney@gmail.com>  
+Copyright (c) 2021 Jesse S. Devaney  
 MIT License
-
